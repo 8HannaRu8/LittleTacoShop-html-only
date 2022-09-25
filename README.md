@@ -1,2 +1,2 @@
-# my-tribute-page
-Tribute page with html5 and css3
+# LittleTacoShop-projest
+A project of TheLittleTacoShop using only HTML5
