@@ -1,2 +1,2 @@
-# LittleTacoShop-projest
-A project of TheLittleTacoShop using only HTML5
+# LittleTacoShop-project
+A project of TheLittleTacoShop using HTML5 only 
